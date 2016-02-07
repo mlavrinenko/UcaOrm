@@ -1,0 +1,7 @@
+/gradle/
+/.gradle/
+/gradlew
+/gradlew.bat
+
+/local.properties
+/UcaOrm.iml
